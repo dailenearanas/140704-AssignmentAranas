@@ -1,0 +1,10 @@
+C:\Users\user\Documents\IT 413\AssignmentAranas\AssignmentAranas\bin\Debug\AssignmentAranas.exe.config
+C:\Users\user\Documents\IT 413\AssignmentAranas\AssignmentAranas\bin\Debug\AssignmentAranas.exe
+C:\Users\user\Documents\IT 413\AssignmentAranas\AssignmentAranas\bin\Debug\AssignmentAranas.pdb
+C:\Users\user\Documents\IT 413\AssignmentAranas\AssignmentAranas\obj\Debug\AssignmentAranas.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\IT 413\AssignmentAranas\AssignmentAranas\obj\Debug\AssignmentAranas.frmMain.resources
+C:\Users\user\Documents\IT 413\AssignmentAranas\AssignmentAranas\obj\Debug\AssignmentAranas.frmSecond.resources
+C:\Users\user\Documents\IT 413\AssignmentAranas\AssignmentAranas\obj\Debug\AssignmentAranas.Properties.Resources.resources
+C:\Users\user\Documents\IT 413\AssignmentAranas\AssignmentAranas\obj\Debug\AssignmentAranas.csproj.GenerateResource.Cache
+C:\Users\user\Documents\IT 413\AssignmentAranas\AssignmentAranas\obj\Debug\AssignmentAranas.exe
+C:\Users\user\Documents\IT 413\AssignmentAranas\AssignmentAranas\obj\Debug\AssignmentAranas.pdb
